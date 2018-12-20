@@ -7,3 +7,8 @@ body {
 nav {
   height: 90px;
 }
+
+#menuBar {
+ display: flex;
+ flex-direction: column;
+}
